@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="10,0,0.333,-0.333">
-        <Button Content="STOP" HorizontalAlignment="Left" Margin="197,207,0,0" VerticalAlignment="Top" Width="75" Background="#FF2FD316"/>
+        <Button Content="STOP " HorizontalAlignment="Left" Margin="197,207,0,0" VerticalAlignment="Top" Width="75" Background="#FF2FD316"/>
         <Button Content="SLOW" HorizontalAlignment="Left" Margin="197,135,0,0" VerticalAlignment="Top" Width="75" Background="#FFD4D00E"/>
         <Button Content="GO" HorizontalAlignment="Left" Margin="197,69,0,0" VerticalAlignment="Top" Width="75" Background="#FFF25A21"/>
         <Image HorizontalAlignment="Left" Height="92" Margin="633,273,0,0" VerticalAlignment="Top" Width="140" Source="carcartoon.jpg"/>
